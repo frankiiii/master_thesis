@@ -1,0 +1,40 @@
+# Feature lists
+
+  rebel_visibility:
+    - foundloc_cat_cat
+    - forest_cov
+    - rural
+    - terrain
+    - age_formation
+
+  social_networks_short: 
+    - goal_total
+    - ideo_total
+    - ident_ethnicity
+    - parent_splinter_nonstate
+    - parent_splinter_state
+    - parent_civil_society
+    - parent_merger
+    - internet_use
+
+  social_networks_short_log: 
+    - goal_total
+    - ideo_total
+    - ident_ethnicity
+    - parent_splinter_nonstate
+    - parent_splinter_state
+    - parent_civil_society
+    - parent_merger
+    - internet_use_log
+
+  state_capacity:
+    - gov_qual
+    - milexp_in
+    - milper_in
+    - polity2
+  
+  natural_resources:
+    - oil
+
+  natural_resources_log:
+    - oil_log
